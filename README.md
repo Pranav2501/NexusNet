@@ -33,8 +33,7 @@ npm run dev
 npm install --save firebase
 ```
 ### Hosting
-The project is currently hosted using Firebase, kindly use the following link to access it.
-Link : https://nexusnet-63734.web.app
+The project is currently hosted using Firebase, kindly use this link: https://nexusnet-63734.web.app
 ### LICENSE
 
 The project is licensed user MIT and is publicly available to all for use.
