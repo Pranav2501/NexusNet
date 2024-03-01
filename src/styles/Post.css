@@ -1,0 +1,51 @@
+/* Post.css */
+.post-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #dff0df;
+}
+
+.post-header {
+    margin-bottom: 10px;
+}
+
+.post-image img {
+    width: 150px;
+    height: 150px;
+}
+
+.post-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.post-footer button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.post-footer button:last-child {
+    margin-right: 0;
+}
+
+.post-footer .like-button {
+    background-color: #007bff;
+}
+
+.post-footer .comment-button {
+    background-color: #28a745;
+}
+.post-comments {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+}
