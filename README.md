@@ -69,6 +69,14 @@ The project is licensed user MIT and is publicly available to all for use.
 ### Notes
 This was a challenging project to do with just JS classes, since its a social media platform that needs to keep track of the available posts, likes, comments & users. The firestore database helped in storing information and has been implemented along with the React Classes. Modularity is ensured by having separate components for Rendering. The code submitted on GitHub had a few changes, but there were some merge-conflicts, hence the .git directory was erased and the updated version was uploaded.
 ### Snapshots
-![Example Image](./src/assets/images/snapshot1.png)
-
+Create User Page
+![CreateUser](./src/images/LoginPage.png)
+Successful User Creation Page
+![SuccessPage](./src/images/SuccesfulLogin.png)
+Home Page
+![Home Page](./src/images/HomePage.png)
+Profile Page
+![Profile Page](./src/images/ProfilePage.png)
+Search User Page
+![Search Page](./src/images/SearchUserPage.png)
 
