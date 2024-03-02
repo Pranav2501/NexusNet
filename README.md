@@ -45,6 +45,10 @@ npm install --save firebase
 ```
 ### Hosting
 The project is currently hosted using Firebase, kindly use this link: https://nexusnet-63734.web.app
+
+### Video Demo
+Link - https://northeastern.zoom.us/rec/share/cOVEJPE01xjjAkOR0sBZdjtw1oqvWtQhrO3cr_VDYTmrUxDIXc4ZuTW-w5baKPyb.TkfIz3Uq19wb7b_K?startTime=1709348812000
+Passcode: B!KD8bZU
 ### LICENSE
 
 The project is licensed user MIT and is publicly available to all for use.
@@ -72,7 +76,7 @@ This was a challenging project to do with just JS classes, since its a social me
 Create User Page
 ![CreateUser](./src/images/LoginPage.png)
 Successful User Creation Page
-![SuccessPage](./src/images/SuccesfulLogin.png)
+![SuccessPage](./src/images/SuccessfulLogin.png)
 Home Page
 ![Home Page](./src/images/HomePage.png)
 Profile Page
