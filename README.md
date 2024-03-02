@@ -9,7 +9,7 @@ Hosting - Firebase Hosting
 ## GitHub Repository
 The current repository was reinitialized from the project folder by removing the .git directory, since the old submission had merge conflicts which could not be resolved. This new Repository has a few changes made to Firebase files which could not be merged, so the entire repo was wiped before pushing the code again. Here's the screenshot of the old repository before it was wiped.
 
-![GitHub Repo Old](./GitHubSS.png)
+![GitHub Repo Old](./src/images/GitHubSS.png)
 
 
 ## Getting Started
