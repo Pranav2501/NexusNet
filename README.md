@@ -1,5 +1,16 @@
 # NexusNet
-Welcome to NexusNet, a social media platform designed for your preferences. This application allows users to create an account, post content & interact with other users through comments and likes. The project is built using the React-Vite Framework and JS Classes, no hooks are implemented in this code. Firebase was used to serve as the backend and provide functionalities for hosting the server.
+Welcome to NexusNet, a social media platform designed for your preferences. This application allows users to create an account, post content & interact with other users through comments and likes. The project is built using the React-Vite Framework and JS Classes, no hooks are implemented in this code. Firebase was used to serve as the backend and provide functionalities for hosting the server. The platform also allows users to customize their profile sections with pictures & bio, along with an option to find the details of other users by typing their name.
+
+Framework - React-Vite
+CSS - Boostrap & custom sytling
+Backend - Firestore Database
+Hosting - Firebase Hosting
+
+## GitHub Repository
+The current repository was reinitialized from the project folder by removing the .git directory, since the old submission had merge conflicts which could not be resolved. This new Repository has a few changes made to Firebase files which could not be merged, so the entire repo was wiped before pushing the code again. Here's the screenshot of the old repository before it was wiped.
+
+![GitHub Repo Old](./GitHubSS.png)
+
 
 ## Getting Started
 
@@ -39,7 +50,7 @@ The project is currently hosted using Firebase, kindly use this link: https://ne
 The project is licensed user MIT and is publicly available to all for use.
 ### Functionalities Implemented
 - Create Users
-- Update User Profile
+- Update User Profile (Bio & Profile Pic)
 - Search for Other Users
 - Post Content with Title & Description
 - View Available Posts
